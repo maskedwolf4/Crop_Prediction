@@ -4,5 +4,5 @@ seaborn
 matplotlib
 config
 flask
-sklearn
+scikit-learn
 unicorn
