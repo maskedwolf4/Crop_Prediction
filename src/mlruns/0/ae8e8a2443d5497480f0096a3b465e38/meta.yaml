@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91704/Desktop/projects/Classification%20projects/Crop%20Prediction/src/mlruns/0/ae8e8a2443d5497480f0096a3b465e38/artifacts
+end_time: 1717140877734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae8e8a2443d5497480f0096a3b465e38
+run_name: serious-fowl-619
+run_uuid: ae8e8a2443d5497480f0096a3b465e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717140863567
+status: 3
+tags: []
+user_id: '91704'

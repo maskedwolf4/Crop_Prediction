@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91704/Desktop/projects/Classification%20projects/Crop%20Prediction/src/mlruns/0/b659d92aa1f34e3aac7eba9be2b6668f/artifacts
+end_time: 1717140829664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b659d92aa1f34e3aac7eba9be2b6668f
+run_name: spiffy-hare-267
+run_uuid: b659d92aa1f34e3aac7eba9be2b6668f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717140814232
+status: 4
+tags: []
+user_id: '91704'

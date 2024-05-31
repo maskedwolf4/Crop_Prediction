@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91704/Desktop/projects/Classification%20projects/Crop%20Prediction/mlruns/0/11732500959b49ca9454ae412b160447/artifacts
+end_time: 1717039868905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11732500959b49ca9454ae412b160447
+run_name: flawless-carp-301
+run_uuid: 11732500959b49ca9454ae412b160447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717039855892
+status: 4
+tags: []
+user_id: '91704'

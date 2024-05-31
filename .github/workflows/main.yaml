@@ -1,0 +1,43 @@
+name: Crop Prediction Model Deployment
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.11  # Adjust based on your project's requirements
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Build Docker image
+        run: |
+          docker build -t ml-model-app .  # Adjust the image name if needed
+
+
+      # - name: Run the application locally (optional)
+      #   # Uncomment and adjust if you want to run the app locally after building
+      #   # run: docker run -p 5000:5000 ml-model-app  # Adjust port if needed
+
+      # - name: Deploy to local server (optional)
+      #   # Replace with your specific deployment steps (e.g., using tools like Docker Compose)
+      #   # if you're deploying to a local server
+

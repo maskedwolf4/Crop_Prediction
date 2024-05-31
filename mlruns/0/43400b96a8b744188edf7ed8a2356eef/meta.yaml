@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91704/Desktop/projects/Classification%20projects/Crop%20Prediction/mlruns/0/43400b96a8b744188edf7ed8a2356eef/artifacts
+end_time: 1717039449300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43400b96a8b744188edf7ed8a2356eef
+run_name: omniscient-snipe-49
+run_uuid: 43400b96a8b744188edf7ed8a2356eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717039446297
+status: 4
+tags: []
+user_id: '91704'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91704/Desktop/projects/Classification%20projects/Crop%20Prediction/src/mlruns/0/75a9f750d36e43229eb88c56bb438f8d/artifacts
+end_time: 1717140954140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75a9f750d36e43229eb88c56bb438f8d
+run_name: bemused-seal-476
+run_uuid: 75a9f750d36e43229eb88c56bb438f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717140941146
+status: 3
+tags: []
+user_id: '91704'

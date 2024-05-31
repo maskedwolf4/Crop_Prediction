@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91704/Desktop/projects/Classification%20projects/Crop%20Prediction/src/mlruns/0/ae15293dc12b47e295a78086df228c5a/artifacts
+end_time: 1717140660921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae15293dc12b47e295a78086df228c5a
+run_name: kindly-fawn-568
+run_uuid: ae15293dc12b47e295a78086df228c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717140633461
+status: 3
+tags: []
+user_id: '91704'
